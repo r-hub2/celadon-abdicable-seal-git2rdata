@@ -1,7 +1,3 @@
-# git2rdata 0.5.1
-
-* Fix CRAN notes. 
-
 # git2rdata 0.5.0
 
 * `read_vc()` handles empty datasets stored with `split_by`. 

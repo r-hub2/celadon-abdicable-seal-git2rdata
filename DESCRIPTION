@@ -1,6 +1,6 @@
 Package: git2rdata
 Title: Store and Retrieve Data.frames in a Git Repository
-Version: 0.5.1
+Version: 0.5.0
 Authors@R: c(
     person("Thierry", "Onkelinx", , "thierry.onkelinx@inbo.be", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0001-8804-4216", affiliation = "Research Institute for Nature and Forest (INBO)")),
@@ -54,7 +54,7 @@ Collate: 'clean_data_path.R' 'data_package.R' 'datahash.R'
         'relabel.R' 'rename_variable.R' 'update_metadata.R'
         'upgrade_data.R' 'utils.R' 'verify_vc.R'
 NeedsCompilation: no
-Packaged: 2025-01-24 09:07:44 UTC; thierry
+Packaged: 2025-01-24 09:50:00 UTC; thierry
 Author: Thierry Onkelinx [aut, cre] (<https://orcid.org/0000-0001-8804-4216>,
     Research Institute for Nature and Forest (INBO)),
   Floris Vanderhaeghe [ctb] (<https://orcid.org/0000-0002-6378-6229>,
